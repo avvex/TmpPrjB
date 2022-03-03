@@ -26,6 +26,15 @@ public:
 
 };
 
+class BX
+{
+public:
+    bool doSmth();
+    bool doSmthX();
+
+
+};
+
 
 int main(int argc, char *argv[])
 {
